@@ -1,10 +1,10 @@
 # GitHubBackup
-Shell script for backing up all GitHub repositories of an organisational or personal account.
+Shell script for backing up all GitHub repositories of an organizational or personal account.
 
 ## Usage
-For organisational account:
+For organizational account:
 ```
-./github_backup.sh username token org OrganisationName /path/to/local/backup/dir
+./github_backup.sh username token org OrganizationName /path/to/local/backup/dir
 ```
 
 For personal account:
